@@ -22,7 +22,7 @@ addBtn.addEventListener("click", (e)=>{
         ul.appendChild(li);
 
         input.value = "";
-        empty.style.display =none;
+        empty.style.display ="none";
 
 
 
